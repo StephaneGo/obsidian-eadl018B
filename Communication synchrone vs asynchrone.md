@@ -5,7 +5,7 @@ Tags:
 
 # Questions
 
-bla bla
+
 # Notes
 
 
